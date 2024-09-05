@@ -1,0 +1,31 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Epsilon",
+    "startDate": "Feb, 2024",
+    "endDate": "Present",
+    "experiences": ["Developed and maintained robust, scalable web applications using ReactJS, Node.js, and MongoDB, achieving a 30% increase in performance and user satisfaction", "Designed and implemented microservices architecture, significantly improving application scalability and ease of maintenance.", "Optimized cloud infrastructure management on AWS and implemented CI/CD pipelines with Jenkins and Docker, reducing deployment time by 40%."],
+    "imageSrc": "history/epsilon.jpeg"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Accenture",
+    "startDate": "Mar, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Boosted AEM (Adobe Experience Manager) platform development speed by 30% using Java, JavaScript, and Sling APIs.", "Engineered scalable web applications with Java Spring Boot and JavaScript, optimizing container management and automating invoicing, resulting in a 25% improvement in operational efficiency.", "Led a code quality initiative by automating testing with JUnit, reducing defects by 30% and improving overall software reliability by 20%."
+],
+    "imageSrc": "history/accenture.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Trigent",
+    "startDate": "Feb, 2018",
+    "endDate": "Mar, 2021",
+    "experiences": [
+      "Developed and maintained web applications using Java, Spring, and Hibernate, achieving a 20% reduction in maintenance issues through adherence to best practices.",
+      "Implemented RESTful APIs, enhancing system integration efficiency and cutting integration time by 20%.",
+      "Conducted thorough unit and integration testing, resulting in a 15% decrease in post-deployment defects and improved overall software reliability."
+    ],
+    "imageSrc": "history/trigent.png"
+  }
+]

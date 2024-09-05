@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Vyashe Boutique (Web Application)",
+    "imageSrc": "projects/Vyashe.webp",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "MongoDB", "JavaScript"],
+   "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Text-To-Voice",
+    "imageSrc": "projects/Texttovoice.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["WebRTC", "TTS library"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Comprehensive E-wallet microservices platform",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Java", "Springboot", "Kafka"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
